@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Examples
 
 Thanks in no small part to the contributions of the buccaneers mentioned below we've amassed a library of examples to help  get you started with Scroll pHAT.
@@ -27,3 +28,6 @@ Before you contribute:
 * make sure you don't contribute something that's in progress, or already been done!
 * test your code in Python 2 and Python 3
 * make something awesome!
+=======
+# r2d2_clock
+>>>>>>> eea3d38bb922b915a9703803014daef216c28662
